@@ -1,0 +1,21 @@
+<header>
+  <nav class="navbar navbar-expand navbar-dark flex-column flex-md-row" style="background-color: #0000ff;">
+    <a class="navbar-brand" href="/">Takahashi Lab</a>
+    <div class="collapse navbar-collapse">
+      <ul class="navbar-nav mr-auto">
+        {% for item in site.data.navi %}
+        <li {% if page.url == item.link %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+          <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div>
+      <a href="/access.html"><i {% if page.url == "/access.html" %}class="fas fa-map-marked-alt menu-icon-current ml-3"{% else %}class="fas fa-map-marked-alt menu-icon ml-3"{% endif %} title="Access"></i></a>
+      <a href="/contact.html"><i {% if page.url == "/contact.html" %}class="fas fa-envelope menu-icon-current ml-3"{% else %}class="fas fa-envelope menu-icon ml-3"{% endif %} title="Contact"></i></a>
+      <a href="/link.html"><i {% if page.url == "/link.html" %}class="fas fa-link menu-icon-current ml-3"{% else %}class="fas fa-link menu-icon ml-3"{% endif %} title="Link"></i></a>
+      <a href="https://github.com/tkhslab"><i class="fab fa-github menu-icon ml-3" title="Github"></i></a>
+      <a href="https://twitter.com/tomo0626"><i class="fab fa-twitter menu-icon ml-3" title="Twitter"></i></a>
+    </div>
+  </nav>
+</header>
