@@ -2,6 +2,7 @@
 title: For students
 ---
 ## For students
+<i class="fas fa-caret-right"></i> [2021年度の専門演習の履修予定者へ](b2.html)<br>
 <i class="fas fa-caret-right"></i> [高橋研で研究をしたい方へ](#高橋研で研究をしたい方)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
 <i class="fas fa-caret-right"></i> [個別ゼミ](#個別ゼミ)
