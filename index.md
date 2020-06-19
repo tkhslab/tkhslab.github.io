@@ -2,7 +2,9 @@
 title: Home
 ---
 ## News
-<span class="badge badge-danger">New</span>
+<!-- <span class="badge badge-danger">New</span> -->
+Our research is [introduced](http://www.kansai-u.ac.jp/kenkyubito/stories/11_takahashi.html) in Kansai University official website. / 関西大学のホームページで高橋研究室の研究紹介が[公開されました](http://www.kansai-u.ac.jp/kenkyubito/stories/11_takahashi.html)。(March 2, 2020)
+
 Our laboratory has been renewed for its 10th anniversary. / 設立10周年を迎え、研究室をリニューアルしました。
 (April 1, 2020)
 

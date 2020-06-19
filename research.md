@@ -2,6 +2,7 @@
 title: Research
 ---
 ## Research
+<i class="fas fa-caret-right"></i> [Reseach story / 研究紹介](http://www.kansai-u.ac.jp/kenkyubito/stories/11_takahashi.html)<br>
 <i class="fas fa-caret-right"></i> [Reseach topics / 研究テーマ](#reseach-topics--研究テーマ)<br>
 <i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) / [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>
 <i class="fas fa-caret-right"></i> [Lectures / 学会発表・講演等](#lectures--学会発表講演等)<br>
