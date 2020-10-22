@@ -14,4 +14,4 @@ tomot-secretary[at]cm.kansai-u.ac.jp (Please replace [at] with @ for real adress
 〒569-1098 大阪府高槻市白梅町7-1<br>
 Tel 072-684-4151<br>
 Fax 072-684-4188<br>
-tomot-secretary[at]cm.kansai-u.ac.jp （送信する際は[at]を@に変更してください。）
+tomot-secretary[at]cm.kansai-u.ac.jp （送信する際は[at]を@に変更してください）
