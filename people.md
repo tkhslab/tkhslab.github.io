@@ -9,7 +9,6 @@ title: People
 
 <h5>Secretary</h5>
 <p>
-&nbsp; Yoshika Tadaki / 只木 良佳<br>
 &nbsp; Michiyo Morii / 森井 道代
 </p>
 </div>

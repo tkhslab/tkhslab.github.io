@@ -3,16 +3,14 @@ title: Home
 ---
 ## News
 <span class="badge badge-danger">New</span>
+<a href="/b2.html"><i class="fas fa-link"></i></a>
 For prospective students for Advanced Seminar in 2021
-<a href="/b2.html"><i class="fas fa-link"></i></a>
 / 2021年度専門演習の履修予定者へ
-<a href="/b2.html"><i class="fas fa-link"></i></a>
 (Oct. 14, 2020 updated)
 
+<a href="https://www.kansai-u.ac.jp/stories/11_takahashi.html"><i class="fas fa-link"></i></a>
 Our research is introduced in Kansai University official website.
-<a href="https://www.kansai-u.ac.jp/stories/11_takahashi.html"><i class="fas fa-link"></i></a>
 / 関西大学のホームページで研究が紹介されました。
-<a href="https://www.kansai-u.ac.jp/stories/11_takahashi.html"><i class="fas fa-link"></i></a>
 (March 2, 2020)
 
 Our laboratory has been renewed for its 10th anniversary. / 設立10周年を迎え、研究室をリニューアルしました。
