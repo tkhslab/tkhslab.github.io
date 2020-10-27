@@ -6,7 +6,7 @@ title: Home
 <a href="/b2.html"><i class="fas fa-link"></i></a>
 For prospective students for Advanced Seminar in 2021
 / 2021年度専門演習の履修予定者へ
-(Oct. 22, 2020 updated)
+(Oct. 27, 2020 updated)
 
 <a href="https://www.kansai-u.ac.jp/stories/11_takahashi.html"><i class="fas fa-link"></i></a>
 Our research is introduced in Kansai University official website.
