@@ -62,7 +62,7 @@ Set up a standard operating and development environment in Takahashi Lab.
 0. LINE
 - アップルメニュー > App Store... > LINEを検索  > 入手 > 開く
 
-**D. Homebrewの使用法**
+**E. Homebrewの使用法**
 
 ※以下の作業はすべてターミナルで行う。
 
@@ -81,3 +81,11 @@ Set up a standard operating and development environment in Takahashi Lab.
 - brew outdated　更新されているインストール済みformulaの確認
 - brew cleanup　古いバージョンのformulaの削除、-nを付けると削除しないでリストのみ、通常は30日で自動で削除される
 
+**F. FAQ**
+
+<dl>
+<dt>Q. Excelでcsvファイルを開くと文字化けする。</dt>
+<dd>A. nkfで文字コードをShift-JISに変換する。ちなみに、EUC-JPあるいはUTF-8に変換する場合は-sを-eあるいは-wとする。<br>
+<pre>$ nkf -s --overwrite file_name</pre>
+</dd>
+</dl>
