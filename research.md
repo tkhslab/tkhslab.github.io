@@ -2,18 +2,18 @@
 title: Research
 ---
 ## Research
-<i class="fas fa-caret-right"></i> [Reseach story / 研究紹介](http://www.kansai-u.ac.jp/kenkyubito/stories/11_takahashi.html)<br>
-<i class="fas fa-caret-right"></i> [Reseach topics / 研究テーマ](#reseach-topics--研究テーマ)<br>
-<i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) / [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>
-<i class="fas fa-caret-right"></i> [Lectures / 学会発表・講演等](#lectures--学会発表講演等)<br>
-<i class="fas fa-caret-right"></i> [Tsunami Source Estimation Database Based on Tsunami Deposits](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index_en.html) / [津波堆積物に基づく津波波源推定データベース](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index.html)<br>
+<i class="fas fa-caret-right"></i> [Reseach story - 研究紹介](http://www.kansai-u.ac.jp/kenkyubito/stories/11_takahashi.html)<br>
+<i class="fas fa-caret-right"></i> [Reseach topics - 研究テーマ](#reseach-topics--研究テーマ)<br>
+<i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) - [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>
+<i class="fas fa-caret-right"></i> [Lectures - 学会発表・講演等](#lectures--学会発表講演等)<br>
+<i class="fas fa-caret-right"></i> [Tsunami Source Estimation Database Based on Tsunami Deposits](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index_en.html) - [津波堆積物に基づく津波波源推定データベース](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index.html)<br>
 <i class="fas fa-caret-right"></i> [津波解析ハッカソン](https://tsnmhack.github.io/)<br>
-<i class="fas fa-caret-right"></i> [Tsunami Mitigation Research Portal Site](https://tsunami-portal.bosai.go.jp/en/index) / [津波防災研究ポータルサイト](https://tsunami-portal.bosai.go.jp/)<br>
+<i class="fas fa-caret-right"></i> [Tsunami Mitigation Research Portal Site](https://tsunami-portal.bosai.go.jp/en/index) - [津波防災研究ポータルサイト](https://tsunami-portal.bosai.go.jp/)<br>
 <i class="fas fa-caret-right"></i> [tsunami-japan メーリングリスト](https://lists.cm.kansai-u.ac.jp/mailman/listinfo/tsunami-japan)
 
 ---
 
-### Reseach topics / 研究テーマ
+### Reseach topics - 研究テーマ
 - Sediment transport and topography change due to tsunamis<br>津波による砂移動と地形変化
 - Tsunami monitoring using the Ocean Radar<br>海洋レーダによる津波観測
 - Tsunami source estimation from observed data using machine learning<br>津波観測データを用いた機械学習による波源推定
@@ -23,7 +23,7 @@ title: Research
 
 ---
 
-### Lectures / 学会発表・講演等
+### Lectures - 学会発表・講演等
 [2020](#lectures-in-2020) &nbsp; [2019](#lectures-in-2019) &nbsp; [2018](#lectures-in-2018) &nbsp; [2017](#lectures-in-2017) &nbsp; [2016](#lectures-in-2016) &nbsp; [2015](#lectures-in-2015) &nbsp; [2014](#lectures-in-2014) &nbsp; [2013](#lectures-in-2013) &nbsp; [2012](#lectures-in-2012) &nbsp; [2011](#lectures-in-2011) &nbsp; [2010](#lectures-in-2010)
 
 #### Lectures in 2020
