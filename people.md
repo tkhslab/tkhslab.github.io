@@ -4,23 +4,23 @@ title: People
 ## People
 <div class="row">
 <div class="col-md">
-<h5>Professor</h5>
+<h5>Professor - 教授</h5>
 <p>&nbsp; <a href="http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html">Tomoyuki Takahashi</a> - <a href="http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html">高橋 智幸</a></p>
 
-<h5>Secretary</h5>
+<h5>Secretary - 秘書</h5>
 <p>
 &nbsp; Michiyo Morii - 森井 道代
 </p>
 
-<h5>Third-year Doctor's student</h5>
+<h5>Third-year Doctor's student - 博士課程３回生</h5>
 <p>&nbsp; Masaki Washida - 鷲田 正樹</p>
 </div>
 
 <div class="col-md">
-<h5>Second-year Master's student</h5>
+<h5>Second-year Master's student - 修士課程２回生</h5>
 <p>&nbsp; Shuhei Yoshida - 吉田 修平</p>
 
-<h5>Third-year Bachelor's student</h5>
+<h5>Third-year Bachelor's student - 学部３回生</h5>
 <p>&nbsp; Tatsuki Ishida - 石田 達己<br>
 &nbsp; Takahiro Kanai - 金井 敬寛<br>
 &nbsp; Yusuke Takahashi - 高橋 佑介<br>
