@@ -43,7 +43,8 @@ title: For students
 
 #### 個別ゼミ
 高橋研に所属している学生を対象として、随時、学生ごとに個別で行うゼミです。
-希望する日時（原則、平日の午後）を[Slack](https://slack.com/)で高橋へ連絡してください。
+希望する日時（原則、平日の午後）を高橋へ<div class="line-it-button" data-lang="ja" data-type="share-b" data-ver="3" data-url="https://tkhslab.github.io/forstudents.html" data-color="default" data-size="small" data-count="false" style="display: none;"></div>
+ <script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async" defer="defer"></script>で連絡してください。
 場所はM1001室です。
 
 （申し込み例）<br>
