@@ -11,12 +11,12 @@ title: People
 <p>
 &nbsp; Michiyo Morii - 森井 道代
 </p>
+
+<h5>Third-year Doctor's student</h5>
+<p>&nbsp; Masaki Washida - 鷲田 正樹</p>
 </div>
 
 <div class="col-md">
-<h5>Third-year Doctor's student</h5>
-<p>&nbsp; Masaki Washida - 鷲田 正樹</p>
-
 <h5>Second-year Master's student</h5>
 <p>&nbsp; Shuhei Yoshida - 吉田 修平</p>
 
