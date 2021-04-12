@@ -69,7 +69,7 @@ title: For students
 <table border="1" cellpadding="5">
 <tbody>
 <tr>
-<td>○</td><td width="115">4月6日（火）</td><td>イントロダクション</td>
+<td>○</td><td width="120">4月6日（火）</td><td>イントロダクション</td>
 </tr>
 <tr>
 <td>○</td><td>4月13日（火）</td><td>3Dプリンタ勉強会（伊藤ゼミと合同）、吉田（中間発表会のスライド案）、高橋智（ゼミの説明）</td>
