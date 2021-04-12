@@ -14,11 +14,18 @@ title: People
 </div>
 
 <div class="col-md">
-<h5>Second-year Doctor's student</h5>
+<h5>Third-year Doctor's student</h5>
 <p>&nbsp; Masaki Washida / 鷲田 正樹</p>
 
-<h5>First-year Master's student</h5>
+<h5>Second-year Master's student</h5>
 <p>&nbsp; Shuhei Yoshida / 吉田 修平</p>
+
+<h5>Third-year Bachelor's student</h5>
+<p>&nbsp; Tatsuki Ishida / 石田 達己<br>
+&nbsp; Takahiro Kanai / 金井 敬寛<br>
+&nbsp; Yusuke Takahashi / 高橋 佑介<br>
+&nbsp; Yohei Yamamoto / 山本 遥平</p>
+
 </div>
 </div>
 
