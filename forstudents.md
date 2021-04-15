@@ -12,7 +12,7 @@ title: For students
 
 #### 2021年度の専門演習の履修予定者へ
 
-高橋研究室の説明資料は [こちら](dl/tkhslab2020.pdf)。
+高橋研究室の説明資料は [こちら](assets/dl/tkhslab2020.pdf)。
 
 高橋研究室の研究紹介は [こちら](https://www.kansai-u.ac.jp/stories/11_takahashi.html)。
 
