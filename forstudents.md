@@ -118,7 +118,7 @@ title: For students
 <td>○</td><td>4月27日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>5月11日（火）</td><td></td>
+<td>○</td><td>5月11日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
 <td>○</td><td>5月18日（火）</td><td></td>
