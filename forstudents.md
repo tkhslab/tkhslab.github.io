@@ -124,7 +124,7 @@ title: For students
 <td>○</td><td>5月18日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>5月25日（火）</td><td></td>
+<td>○</td><td>5月18日（火）</td><td>石田・金井・山本</td>
 </tr>
 <tr>
 <td>○</td><td>6月1日（火）</td><td></td>
