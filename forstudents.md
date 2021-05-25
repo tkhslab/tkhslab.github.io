@@ -2,7 +2,9 @@
 title: For students
 ---
 ## For students
+<!--
 <i class="fas fa-caret-right"></i> [2021年度の専門演習の履修予定者へ](#2021年度の専門演習の履修予定者へ)<br>
+-->
 <i class="fas fa-caret-right"></i> [高橋研で研究をしたい方へ](#高橋研で研究をしたい方へ)<br>
 <i class="fas fa-caret-right"></i> [研究室の運営](#研究室の運営)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
@@ -10,6 +12,7 @@ title: For students
 
 ---
 
+<!--
 #### 2021年度の専門演習の履修予定者へ
 
 高橋研究室の説明資料は [こちら](assets/dl/tkhslab2020.pdf)。
@@ -29,6 +32,7 @@ title: For students
 上記以外の日時を希望する場合は **tomot[at]kansai-u.ac.jp** （送信する際は[at]を@に変更）へ連絡してください。
 
 ---
+-->
 
 #### 高橋研で研究をしたい方へ
 **高校生**<br>
@@ -130,25 +134,25 @@ title: For students
 <td>○</td><td>6月1日（火）</td><td>【招待発表】「チタン基足場におけるポリプの密着プロセスのin-situ観察」上坂菜々子氏（関西大学 理工学研究科 化学生命工学専攻 M1）<br>【通常発表】石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>6月8日（火）</td><td></td>
+<td>○</td><td>6月8日（火）</td><td>石田・金井・高橋佑・山本・吉田</td>
 </tr>
 <tr>
-<td>○</td><td>6月15日（火）</td><td></td>
+<td>○</td><td>6月15日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>6月22日（火）</td><td></td>
+<td>○</td><td>6月22日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>6月29日（火）</td><td></td>
+<td>○</td><td>6月29日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>7月6日（火）</td><td></td>
+<td>○</td><td>7月6日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>7月13日（火）</td><td></td>
+<td>○</td><td>7月13日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
-<td>○</td><td>7月20日（火）</td><td></td>
+<td>○</td><td>7月20日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 </tbody>
 </table>
