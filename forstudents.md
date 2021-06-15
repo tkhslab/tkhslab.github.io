@@ -2,14 +2,16 @@
 title: For students
 ---
 ## For students
+<!--
 <i class="fas fa-caret-right"></i> [2022年度の専門演習の履修予定者へ](#2022年度の専門演習の履修予定者へ)<br>
+-->
 <i class="fas fa-caret-right"></i> [高橋研で研究をしたい方へ](#高橋研で研究をしたい方へ)<br>
 <i class="fas fa-caret-right"></i> [研究室の運営](#研究室の運営)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
 <i class="fas fa-caret-right"></i> [個別ゼミ](#個別ゼミ)
 
 ---
-
+<!--
 #### 2022年度の専門演習の履修予定者へ
 
 <i class="fas fa-caret-right"></i> **高橋研究室の説明資料は [こちら](assets/dl/tkhslab2022.pdf)。**
@@ -31,6 +33,7 @@ title: For students
 　希望日時を **tomot[at]kansai-u.ac.jp** （送信する際は[at]を@に変更）へ連絡してください。
 
 ---
+-->
 
 #### 高橋研で研究をしたい方へ
 **高校生**<br>
