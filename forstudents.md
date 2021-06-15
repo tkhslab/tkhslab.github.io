@@ -2,9 +2,7 @@
 title: For students
 ---
 ## For students
-<!--
-<i class="fas fa-caret-right"></i> [2021年度の専門演習の履修予定者へ](#2021年度の専門演習の履修予定者へ)<br>
--->
+<i class="fas fa-caret-right"></i> [2022年度の専門演習の履修予定者へ](#2022年度の専門演習の履修予定者へ)<br>
 <i class="fas fa-caret-right"></i> [高橋研で研究をしたい方へ](#高橋研で研究をしたい方へ)<br>
 <i class="fas fa-caret-right"></i> [研究室の運営](#研究室の運営)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
@@ -12,27 +10,27 @@ title: For students
 
 ---
 
-<!--
-#### 2021年度の専門演習の履修予定者へ
+#### 2022年度の専門演習の履修予定者へ
 
-高橋研究室の説明資料は [こちら](assets/dl/tkhslab2020.pdf)。
+<i class="fas fa-caret-right"></i> **高橋研究室の説明資料は [こちら](assets/dl/tkhslab2022.pdf)。**
 
-高橋研究室の研究紹介は [こちら](https://www.kansai-u.ac.jp/stories/11_takahashi.html)。
+<i class="fas fa-caret-right"></i> **高橋研究室の研究紹介は [こちら](https://www.kansai-u.ac.jp/stories/11_takahashi.html)。**
 
-高橋研究室のオフィスアワーは以下の予定で実施します。
+<i class="fas fa-caret-right"></i> **高橋研究室の説明会は以下の予定で実施します。**
 
-　10月 9日（金）15:00～16:00　M1001 および Zoomミーティング　※終了しました。
+　10月5日（火）12:15～12:55　M1001
 
-　10月14日（水）12:15～12:55　M1001 および Zoomミーティング　※終了しました。
+　10月13日（水）12:15～12:55　M1001
 
-　10月22日（木）15:00～16:00　M1001 および Zoomミーティング　※終了しました。
+　10月21日（木）12:15～12:55　Zoom
 
-　10月27日（火）12:15～12:55　M1001 および Zoomミーティング　※終了しました。
+　10月29日（金）12:15～12:55　Zoom
 
-上記以外の日時を希望する場合は **tomot[at]kansai-u.ac.jp** （送信する際は[at]を@に変更）へ連絡してください。
+<i class="fas fa-caret-right"></i> **高橋研究室のオフィスアワーは随時実施します。**
+
+　希望日時を **tomot[at]kansai-u.ac.jp** （送信する際は[at]を@に変更）へ連絡してください。
 
 ---
--->
 
 #### 高橋研で研究をしたい方へ
 **高校生**<br>
