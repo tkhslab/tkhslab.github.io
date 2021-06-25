@@ -2,7 +2,7 @@
 title: Home
 ---
 ## News
-<span class="badge badge-danger">New</span>
+<!-- <span class="badge badge-danger">New</span> -->
 ***April 01, 2021***   
 Third-year Bachelor's students join Takahashi Lab.  
 学部３回生が高橋研に配属されました。
