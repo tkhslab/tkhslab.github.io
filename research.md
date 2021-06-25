@@ -24,14 +24,23 @@ title: Research
 ---
 
 ### Lectures - 学会発表・講演等
-[2020](#lectures-in-2020) &nbsp; [2019](#lectures-in-2019) &nbsp; [2018](#lectures-in-2018) &nbsp; [2017](#lectures-in-2017) &nbsp; [2016](#lectures-in-2016) &nbsp; [2015](#lectures-in-2015) &nbsp; [2014](#lectures-in-2014) &nbsp; [2013](#lectures-in-2013) &nbsp; [2012](#lectures-in-2012) &nbsp; [2011](#lectures-in-2011) &nbsp; [2010](#lectures-in-2010)
+[2021](#lectures-in-2021) &nbsp; [2020](#lectures-in-2020) &nbsp; [2019](#lectures-in-2019) &nbsp; [2018](#lectures-in-2018) &nbsp; [2017](#lectures-in-2017) &nbsp; [2016](#lectures-in-2016) &nbsp; [2015](#lectures-in-2015) &nbsp; [2014](#lectures-in-2014) &nbsp; [2013](#lectures-in-2013) &nbsp; [2012](#lectures-in-2012) &nbsp; [2011](#lectures-in-2011) &nbsp; [2010](#lectures-in-2010)
+
+#### Lectures in 2021
+0. 関西大学のSDGs－再生可能エネルギーを利用したサンゴ礁再生の試み－，高橋智幸，日経SDGsフェス大阪梅田，オンライン，2021年2月15日
+0. 関西大学におけるSDGsの取り組み，高橋智幸，山田高等学校，吹田市，2021年1月20日
+0. サンゴ群集再生技術，鶴田浩章，上田正人，高橋智幸，米津大吾，第25回関西大学先端科学技術シンポジウム，オンライン，2021年1月28-29日
 
 #### Lectures in 2020
+0. 津波波源の不均質性による津波高分布の複雑さに関する数値実験，高橋智幸，国内外における海洋レーダ情報の利活用高度化戦略に関する研究集会，オンライン，2020年12月3日
+0. 関西大学におけるSDGsの取り組み，高橋智幸，吹田東高等学校，吹田市，2020年11月19日
+0. 陸上構造物へ作用する津波波圧，吉田修平，津波解析ハッカソン，オンライン，2020年9月1-3日
+0. 巨大地震津波を対象とした津波統合モデル解析の展開〜非地震性津波を見据えた検討〜，高橋智幸，IRIDeS金曜フォーラム，オンライン，2020年7月20日
 0. 津波防災研究よもやま話 〜東日本大震災での津波被害を踏まえて〜，高橋智幸，第１回東海・東南海・南海地震津波研究会，招待講演，大阪市，2020年1月27日
 0. 東日本大震災以降の津波防災研究の概要，高橋智幸，原子力規制庁職員向け勉強会，招待講演，東京，2020年1月20日
 
 #### Lectures in 2019
-0. 津波解析ハッカソン in 小豆島，高橋智幸，第9回巨大津波災害に関する合同研究集会，大阪市，2019年12月19日
+0. 津波解析ハッカソン in 小豆島，高橋智幸，第９回巨大津波災害に関する合同研究集会，大阪市，2019年12月19日
 0. 南海トラフ巨大地震を見据えた津波防災研究の最前線 ー東日本大震災での津波被害を踏まえてー，市民防災フォーラム2019 in Osaka，招待講演，大阪市，2019年11月16日
 0. 東日本大震災での津波被害を踏まえた津波防災研究の最前線，関西ライフライン研究会，第122回定例研究会，招待講演，大阪市，2019年8月23日
 0. Feasible study for predicting tsunami height by using oceanographic radar installed in Wakayama prefecture, Shuji Seto, Tomoyuki Takahashi, Hirofumi Hinata, Ryotaro Fuji and Fumihiko Imamura, Asia Oceania Geosciences Society 16th Annual Meeting, OS18-A049, Singapore, August 1, 2019
