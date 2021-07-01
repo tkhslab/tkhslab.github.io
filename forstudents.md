@@ -149,7 +149,7 @@ title: For students
 <td>○</td><td>6月29日（火）</td><td>石田・金井・高橋佑</td>
 </tr>
 <tr>
-<td>○</td><td>7月6日（火）</td><td>石田・金井・高橋佑・山本・吉田</td>
+<td>○</td><td>7月6日（火）</td><td>石田・金井・高橋佑・山本・吉田・鷲田</td>
 </tr>
 <tr>
 <td>○</td><td>7月15日（木）</td><td>客員教授講演会「津波被害軽減に向けた新しい試み－産官学の連携プロジェクトKAIZENなど」今村文彦先生</td>
@@ -165,7 +165,7 @@ title: For students
 <table border="1" cellpadding="5">
 <tbody>
 <tr>
-<td>○</td><td width="125">9月21日（火）</td><td></td>
+<td>○</td><td width="125">9月21日（火）</td><td>石田・金井・高橋佑・山本・吉田（夏休み中の成果発表）</td>
 </tr>
 <tr>
 <td>○</td><td>9月28日（火）</td><td></td>
@@ -177,25 +177,31 @@ title: For students
 <td>○</td><td>10月12日（火）</td><td></td>
 </tr>
 <tr>
+<td></td><td>10月18日（月）</td><td>専門演習発表会概要の研究室内提出締め切り（17:00、LINE）</td>
+</tr>
+<tr>
 <td>○</td><td>10月19日（火）</td><td></td>
 </tr>
 <tr>
-<td>○</td><td>10月26日（火）</td><td></td>
+<td>○</td><td>10月26日（火）</td><td>石田・金井・高橋佑・山本（専門演習発表会の選考会リハ）</td>
 </tr>
 <tr>
-<td>○</td><td>11月2日（火）</td><td></td>
+<td>○</td><td>11月2日（火）</td><td>専門演習発表会の選考会</td>
 </tr>
 <tr>
-<td>○</td><td>11月9日（火）</td><td></td>
+<td>○</td><td>11月9日（火）</td><td>代表者（専門演習発表会リハ）</td>
 </tr>
 <tr>
-<td>○</td><td>11月16日（火）</td><td></td>
+<td></td><td>11月10日（水）</td><td>専門演習発表会概要の提出締め切り（17:00、関大LMS）</td>
+</tr>
+<tr>
+<td>○</td><td>11月16日（火）</td><td>代表者（専門演習発表会リハ）</td>
+</tr>
+<tr>
+<td>○</td><td>11月17日（水）</td><td>専門演習発表会</td>
 </tr>
 <tr>
 <td></td><td>11月26日（金）</td><td>合同ゼミ</td>
-</tr>
-<tr>
-<td>○</td><td>11月30日（火）</td><td></td>
 </tr>
 <tr>
 <td>○</td><td>12月7日（火）</td><td></td>
