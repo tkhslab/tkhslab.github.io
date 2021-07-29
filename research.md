@@ -2,14 +2,20 @@
 title: Research
 ---
 ## Research
-<i class="fas fa-caret-right"></i> [Reseach story - 研究紹介](http://www.kansai-u.ac.jp/kenkyubito/stories/11_takahashi.html)<br>
-<i class="fas fa-caret-right"></i> [Reseach topics - 研究テーマ](#reseach-topics--研究テーマ)<br>
+<i class="fas fa-caret-right"></i> [Reseach stories - 研究紹介](#reseach-stories---研究紹介)<br>
+<i class="fas fa-caret-right"></i> [Reseach topics - 研究テーマ](#reseach-topics---研究テーマ)<br>
 <i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) - [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>
-<i class="fas fa-caret-right"></i> [Lectures - 学会発表・講演等](#lectures--学会発表講演等)<br>
+<i class="fas fa-caret-right"></i> [Lectures - 学会発表・講演等](#lectures---学会発表講演等)<br>
 <i class="fas fa-caret-right"></i> [Tsunami Source Estimation Database Based on Tsunami Deposits](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index_en.html) - [津波堆積物に基づく津波波源推定データベース](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index.html)<br>
 <i class="fas fa-caret-right"></i> [津波解析ハッカソン](https://tsnmhack.github.io/)<br>
 <i class="fas fa-caret-right"></i> [Tsunami Mitigation Research Portal Site](https://tsunami-portal.bosai.go.jp/en/index) - [津波防災研究ポータルサイト](https://tsunami-portal.bosai.go.jp/)<br>
 <i class="fas fa-caret-right"></i> [tsunami-japan メーリングリスト](https://lists.cm.kansai-u.ac.jp/mailman/listinfo/tsunami-japan)
+
+---
+
+### Reseach stories - 研究紹介
+- [関大研究 Stories](https://www.kansai-u.ac.jp/stories/11_takahashi.html)
+- [KANSAI UNIVERSITY e-bulletin](https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php)
 
 ---
 

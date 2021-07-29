@@ -2,10 +2,12 @@
 title: Home
 ---
 ## News
-<!-- <span class="badge badge-danger">New</span> -->
-***April 01, 2021***   
-Third-year Bachelor's students join Takahashi Lab.  
-学部３回生が高橋研に配属されました。
+<span class="badge badge-danger">New</span>
+***July 21, 2021***   
+KANSAI UNIVERSITY e-bulletin is released.
+<a href="https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php"><i class="fas fa-link"></i></a>  
+KANSAI UNIVERSITY e-bulletinが公開されました。
+<a href="https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php"><i class="fas fa-link"></i></a>  
 
 <i class="fas fa-arrow-circle-right"></i> 
 [All news](/allnews.html)
