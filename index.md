@@ -26,6 +26,6 @@ We conduct disaster prevention and reduction research on water related disasters
 ---
 
 ## History
-Our laboratory was established in April 2020. We started out under the name of Hydrosphere Disaster Laboratory, because the main research objectives were water related disasters and environmental issues at the beginning. However, since then, we have covered data science and application development, and our research has expanded into a wide range of field related to safety and security. Therefore, in April 2020, the 10th anniversary of our founding,  we change the name to Takahashi Laboratory to cope with more diverse researches.
+Our laboratory was established in April 2010. We started out under the name of Hydrosphere Disaster Laboratory, because the main research objectives were water related disasters and environmental issues at the beginning. However, since then, we have covered data science and application development, and our research has expanded into a wide range of field related to safety and security. Therefore, in April 2020, the 10th anniversary of our founding,  we change the name to Takahashi Laboratory to cope with more diverse researches.
 
 本研究室は2010年4月に設立されました。当初は水に関連した災害と環境問題が主な研究目的であったため、水災害研究室という名称でスタートしました。しかし、その後、データサイエンスやアプリ開発なども行うようになり、安全・安心に関する幅広い分野に研究が発展してきました。そこで、設立10周年を迎えた2020年4月に、より多様な研究に対応するため、高橋研究室に改名しました。
