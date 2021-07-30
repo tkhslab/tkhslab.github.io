@@ -8,7 +8,8 @@ title: For students
 <i class="fas fa-caret-right"></i> [高橋研で研究をしたい方へ](#高橋研で研究をしたい方へ)<br>
 <i class="fas fa-caret-right"></i> [研究室の運営](#研究室の運営)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
-<i class="fas fa-caret-right"></i> [個別ゼミ](#個別ゼミ)
+<i class="fas fa-caret-right"></i> [個別ゼミ](#個別ゼミ)<br>
+<i class="fas fa-caret-right"></i> [博士論文 予備審査（2021年度）](#博士論文-予備審査2021年度)
 
 ---
 <!--
@@ -165,6 +166,9 @@ title: For students
 <table border="1" cellpadding="5">
 <tbody>
 <tr>
+<td></td><td>9月16日（木）</td><td>予備審査準備会（鷲田）</td>
+</tr>
+<tr>
 <td>○</td><td width="125">9月21日（火）</td><td>石田・金井・高橋佑・山本・吉田（夏休み中の成果発表）</td>
 </tr>
 <tr>
@@ -247,3 +251,33 @@ title: For students
 個別ゼミをお願いします。<br>
 第１希望：4月3日（火）15:00<br>
 第２希望：4月4日（水）14:00
+
+---
+
+#### 博士論文 予備審査（2021年度）
+
+<p>※博士論文査定の全体の流れは関大LMSを参照すること。
+なお、同資料では、予備審査の期間は10月13日（水）〜12月20日（月）となっている。</p>
+
+<table border="1" cellpadding="5">
+<tbody>
+<tr>
+<td>9月9日（木）まで</td><td>博士論文ドラフトを主査・副査（候補）に送付</td>
+</tr>
+<tr>
+<td>9月16日（木）</td><td>予備審査準備会</td>
+</tr>
+<tr>
+<td>10月xx日（x）まで</td><td>博士論文（案）を主査・副査に送付</td>
+</tr>
+<tr>
+<td>10月xx日（x）</td><td>第１回予備審査</td>
+</tr>
+<tr>
+<td>11月xx日（x）まで</td><td>博士論文を主査・副査に送付</td>
+</tr>
+<tr>
+<td>11月xx日（x）</td><td>第２回予備審査</td>
+</tr>
+</tbody>
+</table>
