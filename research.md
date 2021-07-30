@@ -15,7 +15,7 @@ title: Research
 
 ### Reseach stories - 研究紹介
 - [関大研究 Stories](https://www.kansai-u.ac.jp/stories/11_takahashi.html)
-- [KANSAI UNIVERSITY e-bulletin](https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php)
+- KANSAI UNIVERSITY e-bulletin &nbsp; &nbsp; [Web](https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php) &nbsp; [YouTube](https://youtu.be/TsZuLbuwNag)
 
 ---
 
