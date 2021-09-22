@@ -2,9 +2,7 @@
 title: For students
 ---
 ## For students
-<!--
 <i class="fas fa-caret-right"></i> [2022年度の専門演習の履修予定者へ](#2022年度の専門演習の履修予定者へ)<br>
--->
 <i class="fas fa-caret-right"></i> [高橋研で研究をしたい方へ](#高橋研で研究をしたい方へ)<br>
 <i class="fas fa-caret-right"></i> [研究室の運営](#研究室の運営)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
@@ -12,7 +10,6 @@ title: For students
 <i class="fas fa-caret-right"></i> [博士論文 予備審査（2021年度）](#博士論文-予備審査2021年度)
 
 ---
-<!--
 #### 2022年度の専門演習の履修予定者へ
 
 <i class="fas fa-caret-right"></i> **高橋研究室の説明資料は [こちら](assets/dl/tkhslab2022.pdf)。**
@@ -25,16 +22,21 @@ title: For students
 
 　10月13日（水）12:15～12:55　M1001
 
-　10月21日（木）12:15～12:55　Zoom　※URL等は後日お知らせします。
+　10月21日（木）12:15～12:55　Zoom<br>
+　　[https://zoom.us/j/97398427577?pwd=NUdOQS9uTytGZi9qTWVqbUNCTjJLdz09](https://zoom.us/j/97398427577?pwd=NUdOQS9uTytGZi9qTWVqbUNCTjJLdz09)<br>
+　　ミーティングID: 973 9842 7577<br>
+　　パスコード: 894332<br>
 
-　10月29日（金）12:15～12:55　Zoom　※URL等は後日お知らせします。
+　10月29日（金）12:15～12:55　Zoom<br>
+　　[https://zoom.us/j/97398427577?pwd=NUdOQS9uTytGZi9qTWVqbUNCTjJLdz09](https://zoom.us/j/97398427577?pwd=NUdOQS9uTytGZi9qTWVqbUNCTjJLdz09)<br>
+　　ミーティングID: 973 9842 7577<br>
+　　パスコード: 894332<br>
 
 <i class="fas fa-caret-right"></i> **高橋研究室のオフィスアワーは随時実施します。**
 
 　希望日時を **tomot[at]kansai-u.ac.jp** （送信する際は[at]を@に変更）へ連絡してください。
 
 ---
--->
 
 #### 高橋研で研究をしたい方へ
 **高校生**<br>

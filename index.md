@@ -3,11 +3,11 @@ title: Home
 ---
 ## News
 <span class="badge badge-danger">New</span>
-***July 21, 2021***   
-KANSAI UNIVERSITY e-bulletin is released. &nbsp; &nbsp;
-[Web](https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php) &nbsp; [YouTube](https://youtu.be/TsZuLbuwNag)  
-KANSAI UNIVERSITY e-bulletinが公開されました。 &nbsp;
-[Web](https://www.kansai-u.ac.jp/Kokusai/e-bulletin/archive/17.php) &nbsp; [YouTube](https://youtu.be/TsZuLbuwNag)
+***Sep. 22, 2021 updated***  
+For prospective students for Advanced Seminar in 2022
+<a href="/forstudents.html#2022年度の専門演習の履修予定者へ"><i class="fas fa-link"></i></a>  
+2022年度専門演習の履修予定者へ
+<a href="/forstudents.html#2022年度の専門演習の履修予定者へ"><i class="fas fa-link"></i></a>
 
 <i class="fas fa-arrow-circle-right"></i> 
 [All news](/allnews.html)
