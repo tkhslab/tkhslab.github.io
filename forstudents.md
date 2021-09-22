@@ -268,7 +268,7 @@ title: For students
 <table border="1" cellpadding="5">
 <tbody>
 <tr>
-<td>9月9日（木）まで</td><td>博士論文ドラフトを主査・副査（候補）へ送付</td>
+<td>9月9日（木）まで</td><td>博士論文（ドラフト）を主査・副査（候補）へ送付</td>
 </tr>
 <tr>
 <td>9月16日（木）</td><td>予備審査準備会</td>
@@ -280,7 +280,7 @@ title: For students
 <td>10月29日（金）</td><td>第１回予備審査</td>
 </tr>
 <tr>
-<td>11月中旬まで</td><td>博士論文を主査・副査へ送付</td>
+<td>11月中旬まで</td><td>博士論文（案）を主査・副査へ送付</td>
 </tr>
 <tr>
 <td>12月上旬</td><td>第２回予備審査</td>
