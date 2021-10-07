@@ -3,7 +3,11 @@ title: All news
 ---
 ## All news
 
-***Sep. 22, 2021 updated***  
+***Sep. 30, 2021***  
+"Non-stationary analysis of wind-driven, nearshore currents and beach erosion changes in Nangoku construction area of Kochi coast caused by 24 storms from 2011 to 2019" was published. <a href="https://www.jstage.jst.go.jp/article/jscejoe/77/2/77_I_367/_article/-char/en"><i class="fas fa-link"></i></a>  
+「2011年から2019年の24ストームによる高知海岸南国工区の非定常吹送流・海浜流・海浜変形解析」が発行されました。<a href="https://www.jstage.jst.go.jp/article/jscejoe/77/2/77_I_367/_article/-char/ja/"><i class="fas fa-link"></i></a>
+
+***Sep. 22, 2021***  
 For prospective students for Advanced Seminar in 2022
 <a href="/forstudents.html#2022年度の専門演習の履修予定者へ"><i class="fas fa-link"></i></a>  
 2022年度専門演習の履修予定者へ
