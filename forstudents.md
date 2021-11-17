@@ -185,6 +185,9 @@ title: For students
 <td></td><td>2月22日（火）<br>〜3月8日（火）</td><td>卒業論文閲覧期間</td>
 </tr>
 <tr>
+<td></td><td>3月17日（木）</td><td>博士論文公聴会</td>
+</tr>
+<tr>
 <td></td><td>3月19日（土）</td><td>卒業式</td>
 </tr>
 <tr>
