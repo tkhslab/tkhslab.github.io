@@ -167,6 +167,9 @@ title: For students
 <td>○</td><td>12月21日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
+<td></td><td>12月23日（木）</td><td>口頭試問（鷲田）</td>
+</tr>
+<tr>
 <td>○</td><td>1月11日（火）</td><td>石田・金井・高橋佑・山本</td>
 </tr>
 <tr>
