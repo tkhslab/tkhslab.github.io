@@ -9,8 +9,9 @@ title: For students
 <i class="fas fa-caret-right"></i> [研究室の運営](#研究室の運営)<br>
 <i class="fas fa-caret-right"></i> [全体ゼミ](#全体ゼミ)<br>
 <i class="fas fa-caret-right"></i> [個別ゼミ](#個別ゼミ)<br>
+<!--
 <i class="fas fa-caret-right"></i> [博士論文 予備審査（2021年度）](#博士論文-予備審査2021年度)
-
+-->
 <!--
 ---
 
