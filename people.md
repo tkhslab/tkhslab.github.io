@@ -7,11 +7,6 @@ title: People
 <h5>Professor</h5>
 <p>&nbsp; <a href="http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html">Tomoyuki Takahashi</a> - <a href="http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html">高橋 智幸</a></p>
 
-<h5>Secretary</h5>
-<p>
-&nbsp; Michiyo Morii - 森井 道代
-</p>
-
 <h5>Third-year Doctor's student</h5>
 <p>&nbsp; Masaki Washida - 鷲田 正樹</p>
 </div>
