@@ -3,6 +3,10 @@ title: All news
 ---
 ## All news
 
+***March 20, 2022***  
+"Modeling of sediment transport in rapidly-varying flow for coastal morphological changes caused by tsunamis" was published. <a href="https://authors.elsevier.com/a/1f8Y15mVdsO0r"><i class="fas fa-link"></i></a>  
+「Modeling of sediment transport in rapidly-varying flow for coastal morphological changes caused by tsunamis」が発行されました。<a href="https://authors.elsevier.com/a/1f8Y15mVdsO0r"><i class="fas fa-link"></i></a>
+
 ***April 01, 2022***   
 Third-year Bachelor's students join Takahashi Lab.  
 学部３回生が高橋研に配属されました。
