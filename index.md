@@ -3,13 +3,13 @@ title: Home
 ---
 ## News
 <span class="badge badge-danger">New</span>
+***March 20, 2022***  
+"Modeling of sediment transport in rapidly-varying flow for coastal morphological changes caused by tsunamis" was published. <a href="https://authors.elsevier.com/a/1f8Y15mVdsO0r"><i class="fas fa-link"></i></a>  
+「Modeling of sediment transport in rapidly-varying flow for coastal morphological changes caused by tsunamis」が発行されました。<a href="https://authors.elsevier.com/a/1f8Y15mVdsO0r"><i class="fas fa-link"></i></a>
+
 ***April 01, 2022***   
 Third-year Bachelor's students join Takahashi Lab.  
 学部３回生が高橋研に配属されました。
-
-***Sep. 30, 2021***  
-"Non-stationary analysis of wind-driven, nearshore currents and beach erosion changes in Nangoku construction area of Kochi coast caused by 24 storms from 2011 to 2019" was published. <a href="https://www.jstage.jst.go.jp/article/jscejoe/77/2/77_I_367/_article/-char/en"><i class="fas fa-link"></i></a>  
-「2011年から2019年の24ストームによる高知海岸南国工区の非定常吹送流・海浜流・海浜変形解析」が発行されました。<a href="https://www.jstage.jst.go.jp/article/jscejoe/77/2/77_I_367/_article/-char/ja/"><i class="fas fa-link"></i></a>
 
 <i class="fas fa-arrow-circle-right"></i> 
 [All news](/allnews.html)
