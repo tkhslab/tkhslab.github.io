@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE;EACA","sourcesContent":[".menu-icon {\n  font-size: 1.25rem;\n}\n\n.current {\n  opacity: 0.8;\n  color: white;\n}\n"],"file":"styles.css"}
