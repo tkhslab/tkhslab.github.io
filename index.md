@@ -2,7 +2,7 @@
 title: Home
 ---
 ## News
-<span class="badge badge-danger">New</span>
+<!-- <span class="badge badge-danger">New</span> -->
 ***May 20, 2022***  
 "Modeling of sediment transport in rapidly-varying flow for coastal morphological changes caused by tsunamis" was published. <a href="https://authors.elsevier.com/a/1f8Y15mVdsO0r"><i class="fas fa-link"></i></a>  
 「Modeling of sediment transport in rapidly-varying flow for coastal morphological changes caused by tsunamis」が発行されました。<a href="https://authors.elsevier.com/a/1f8Y15mVdsO0r"><i class="fas fa-link"></i></a>
