@@ -5,7 +5,7 @@ title: Research
 <i class="fas fa-caret-right"></i> [Reseach stories - 研究紹介](#reseach-stories---研究紹介)<br>
 <i class="fas fa-caret-right"></i> [Reseach topics - 研究テーマ](#reseach-topics---研究テーマ)<br>
 <i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) - [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>
-<i class="fas fa-caret-right"></i> [Lectures - 学会発表・講演等](#lectures---学会発表講演等)<br>
+<i class="fas fa-caret-right"></i> [Presentations - 学会発表・講演等](#lectures---学会発表講演等)<br>
 <i class="fas fa-caret-right"></i> [Tsunami Source Estimation Database Based on Tsunami Deposits](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index_en.html) - [津波堆積物に基づく津波波源推定データベース](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index.html)<br>
 <i class="fas fa-caret-right"></i> [津波解析ハッカソン](https://tsnmhack.github.io/)<br>
 <i class="fas fa-caret-right"></i> [Tsunami Mitigation Research Portal Site](https://tsunami-portal.bosai.go.jp/en/index) - [津波防災研究ポータルサイト](https://tsunami-portal.bosai.go.jp/)<br>
@@ -34,15 +34,15 @@ title: Research
 
 ---
 
-### Lectures - 学会発表・講演等
+### Presentations - 学会発表・講演等
 [2021](#lectures-in-2021) &nbsp; [2020](#lectures-in-2020) &nbsp; [2019](#lectures-in-2019) &nbsp; [2018](#lectures-in-2018) &nbsp; [2017](#lectures-in-2017) &nbsp; [2016](#lectures-in-2016) &nbsp; [2015](#lectures-in-2015) &nbsp; [2014](#lectures-in-2014) &nbsp; [2013](#lectures-in-2013) &nbsp; [2012](#lectures-in-2012) &nbsp; [2011](#lectures-in-2011) &nbsp; [2010](#lectures-in-2010)
 
-#### Lectures in 2021
+#### Presentations in 2021
 0. 関西大学のSDGs－再生可能エネルギーを利用したサンゴ礁再生の試み－，高橋智幸，日経SDGsフェス大阪梅田，オンライン，2021年2月15日
 0. 関西大学におけるSDGsの取り組み，高橋智幸，山田高等学校，吹田市，2021年1月20日
 0. サンゴ群集再生技術，鶴田浩章，上田正人，高橋智幸，米津大吾，第25回関西大学先端科学技術シンポジウム，オンライン，2021年1月28-29日
 
-#### Lectures in 2020
+#### Presentations in 2020
 0. 津波波源の不均質性による津波高分布の複雑さに関する数値実験，高橋智幸，国内外における海洋レーダ情報の利活用高度化戦略に関する研究集会，オンライン，2020年12月3日
 0. 関西大学におけるSDGsの取り組み，高橋智幸，吹田東高等学校，吹田市，2020年11月19日
 0. 陸上構造物へ作用する津波波圧，吉田修平，津波解析ハッカソン，オンライン，2020年9月1-3日
@@ -50,7 +50,7 @@ title: Research
 0. 津波防災研究よもやま話 〜東日本大震災での津波被害を踏まえて〜，高橋智幸，第１回東海・東南海・南海地震津波研究会，招待講演，大阪市，2020年1月27日
 0. 東日本大震災以降の津波防災研究の概要，高橋智幸，原子力規制庁職員向け勉強会，招待講演，東京，2020年1月20日
 
-#### Lectures in 2019
+#### Presentations in 2019
 0. 津波解析ハッカソン in 小豆島，高橋智幸，第９回巨大津波災害に関する合同研究集会，大阪市，2019年12月19日
 0. 南海トラフ巨大地震を見据えた津波防災研究の最前線 ー東日本大震災での津波被害を踏まえてー，市民防災フォーラム2019 in Osaka，招待講演，大阪市，2019年11月16日
 0. 東日本大震災での津波被害を踏まえた津波防災研究の最前線，関西ライフライン研究会，第122回定例研究会，招待講演，大阪市，2019年8月23日
@@ -63,7 +63,7 @@ title: Research
 0. [土砂移動モデルを用いた断層パラメータと配置による津波堆積物形成に関する数値実験](https://confit.atlas.jp/guide/event-img/jpgu2019/HDS13-15/public/pdf?type=in&lang=ja)，山本阿子，高橋智幸，原田賢治，2019年日本地球惑星科学連合大会，HDS13-15，千葉市，2019年5月29日
 0. サンゴ成長促進を目的とした海底設置型水力発電システムに関する基礎検討，高橋智幸，第23回関西大学先端科学技術シンポジウム，吹田市，2019年1月24日
 
-#### Lectures in 2018
+#### Presentations in 2018
 0. 深層学習による津波波源推定の実現可能性，高橋智幸，第8回巨大津波災害に関する合同研究集会，東京，2018年12月21日
 0. シナリオによって変化する津波・水害シミュレーション情報の適切な提示手法に関す る研究，牧紀男，馬場俊孝，高橋智幸，柄谷友香，川崎浩司，キム・ミンスク，地域安全学会研究発表会（秋季），静岡市，2018年11月3日
 0. 東日本大震災後の津波防災研究，高橋智幸，関西大学社会空間情報科学研究センター社会基盤WG，招待講演，吹田市，2018年9月22日
@@ -84,7 +84,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. [Estimation of variance of measured tsunami height distribution based on field survey following the 2011 Tohoku earthquake tsunami](https://meetingorganizer.copernicus.org/EGU2018/EGU2018-5026.pdf), Tomoyuki Takahashi, European Geosciences Union General Assembly 2016, EGU2018-5026, Vienna, Austria, April 9, 2018
 0. サンゴ礁再生を目的としたマイクロ水力発電システム，高橋智幸， 第22回関西大学先端科学技術シンポジウム，吹田市，2018年1月19日
 
-#### Lectures in 2017
+#### Presentations in 2017
 0. [Development of method for evaluating estimated inundation area by using river flood analysis based on multiple flood scenarios](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/217279), Teppei Ono and Tomoyuki Takahashi, AGU Fall Meeting 2017, NH43B-02, New Orleans, USA, December 14, 2017
 0. [Numerical experiment on tsunami deposit distribution process by using tsunami sediment transport model in historical tsunami event of megathrust Nankai trough earthquake](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/266429), Kentaro Imai, Daisuke Sugawara and Tomoyuki Takahashi, AGU Fall Meeting 2017, NH23A-0228, New Orleans, USA, December 12, 2017
 0. [Hydraulic experimental investigation on spatial distribution and formation process of tsunami deposit on a slope](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/300321), Kenji Harada, Tomoyuki Takahashi, Ako Yamamoto, Masaaki Sakuraba and Kazuya Nojima, AGU Fall Meeting 2017, NH23A-0226, New Orleans, USA, December 12, 2017
@@ -103,7 +103,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. 南海トラフ巨大地震対策の現状と課題~東日本大震災の津波被害を踏まえて~，高橋智幸，近畿不動産鑑定士協会連合会・大阪府不動産鑑定士協会，招待講演，大阪市，2017年1月31日
 0. マイクロ水力発電技術を利用したサンゴ成長促進に関する基礎的検討，高橋智幸，第21回関西大学先端科学技術シンポジウム，吹田市，2017年1月20日
 
-#### Lectures in 2016
+#### Presentations in 2016
 0. Hydraulic experiment on tsunami sand deposits relating with grain size distribution and magnitude of incident waves, Ako Yamamoto, Tomoyuki Takahashi, Kenji Harada and Kazuya Nojima, AGU Fall Meeting 2016, NH43B-1849, San Francisco, USA, December 15, 2016
 0. Modeling of Grain Size Distribution of Tsunami Sand Deposits in V-shaped Valley of Numanohama During the 2011 Tohoku Tsunami, Aditya Riadi Gusman, Kenji Satake, Tomoko Goto and Tomoyuki Takahashi, AGU Fall Meeting 2016, NH43B-1839, San Francisco, USA, December 15, 2016
 0. Activity history of giant earthquakes bring crustal movements and huge tsunamis -A case of the 2011 off the Pacific coast of Tohoku Earthquake (M 9)-, Tsuyoshi Haraguchi, Shoichi Shimoyma, Toshiro Yamanaka, Yuichi Yoshinaga and Tomoyuki Takahashi, AGU Fall Meeting 2016, NH41A-1769, San Francisco, USA, December 15, 2016
@@ -122,7 +122,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. Tsunami mitigation measures menu, Tomoyuki Takahashi, Joint Symposium on Tsunamis of the Sixth Chile-Japan Symposium on Tsunami Disaster Mitigation and the Fifteenth International Workshop on Coastal Disaster Prevention，invited, Tokyo, January 12, 2016
 0. 東日本大震災における宮城県志津川湾の藻場消失に及ぼした津波土砂移動の影響，山下啓，菅原大助，今村文彦，高橋智幸，平成27年度東北地域自然災害科学研究集会，福島市，2016年1月9日
 
-#### Lectures in 2015
+#### Presentations in 2015
 0. Role of sediment transport model to improve the tsunami numerical simulation, Daisuke Sugawara, Kei Yamashita, Tomoyuki Takahashi and Fumihiko Imamura, AGU 2015 Fall Meeting, NH13E-01, invited, San Francisco, December 14, 2015
 0. 東日本大震災での津波被害を踏まえた今後の企業防災，高橋智幸，第6回東京シンポジウム，企業・組織の “強靭化”をどう進めるか~減災社会の未来構想~，招待講演，東京，2015年12月11日
 0. Tsunami Mitigation Measures Menu, Tomoyuki Takahashi, Kenji Harada and Kentaro Imai, the Fifth Chile-Japan Joint Symposium on Tsunami Disaster Mitigation, invited, Santiago, October 29, 2015
@@ -151,7 +151,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. 京による津波土砂移動・地形変化のシミュレーションの開発 ― 成果と課題，菅原大助，山下啓，高橋智幸，今村文彦，地震津波シミュレーションワークショップ~最新研究成果を問う~，東京，2015年2月13日
 0. 南海トラフ巨大地震に備える，高橋智幸，阪神・淡路大震災20年シンポジウム，招待講演，大阪市，2015年1月17日
 
-#### Lectures in 2014
+#### Presentations in 2014
 0. イースター島での津波被害調査速報，高橋智幸，八木勇治，高川智博，Erick Mas，第4回巨大津波災害に関する合同研究集会，仙台市，2014年12月25日
 0. Numerical Experiment on Observation Capabilities of Oceanographic Radar for Far Field Tsunami Off Chile, Megumi Okamoto, Tomoyuki Takahashi, Shuji Seto, Hirofumi Hinata and Tomoya Kataoka, AGU Fall Meeting, San Francisco, USA, December 16, 2014
 0. Model of Predicting Multi Tsunami Scenarios Considering Large Slip Zone and Super Large Slip Zone and Its Application in the Nankai Trough, Shuji Seto and Tomoyuki Takahashi, AGU Fall Meeting, San Francisco, USA, December 15, 2014
@@ -172,7 +172,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. Numerical experiment on far field and near field tsunamis concerning Oceano- graphic Radar observation, Megumi Okamoto, Shuji Seto, Tomoyuki Takahashi and Hirohumi Hinata, 2014 Ocean Sciences Meeting, Honolulu, USA, February 27, 2014
 0. Influence of integration time on the accuracy of estimation of tsunami initial sea surface elevation based on inversion using oceanographic radar, Ryotaro Fuji, Hirohumi Hinata, Satoshi Fujii and Tomoyuki Takahashi, 2014 Ocean Sciences Meeting, Honolulu, USA, February 27, 2014
 
-####  Lectures in 2013
+####  Presentations in 2013
 0. 海洋レーダを利用した津波波源逆推定に対する影響要因の検討，藤良太郎，日向博文，藤井智史，高橋智幸，九州大学応用力学研究所共同研究集会「海洋レーダを用いた海況監視システムの開発と応用」，福岡市，2013年12月18日
 0. MF帯/HF帯地上波伝搬特性の予測と実測，西岡泰弘，小林立範，中西孝行，稲沢良夫，宮下裕章，高橋智幸，藤井智史，花土弘，日向博文，九州大学応用力学研究所共同研究集会「海洋レーダを用いた海況監視システムの開発と応用」，福岡市，2013年12月18日
 0. Tsunami characteristics and formation potential of sandy tsunami deposit in Sanriku Coast: implications from numerical modeling, Daisuke Sugawara, Tsuyoshi Haraguchi and Tomoyuki Takahashi, Americaln Geophysical Union Fall Meeting, NH51D‒02, San Francisco, USA, December 9-13, 2013
@@ -200,7 +200,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. 2011 Tohoku tsunami hydrographs, currents, flow velocities and ship tracks based on video and TLS measurements, Fritz, Hermann M. David A. Phillips, Akio Okayasu, Takenori Shimozono, Haijiang Liu, Seiichi Takeda, Fahad Mohammed, Vassilis Skanavis, Costas E. Synolakis and Tomoyuki Takahashi, European Geosciences Union General Assembly 2013, EGU2013‒12732, Austria, April 7-12, 2013
 0. 観測とシミュレーションを連携させた新たな津波防災，高橋智幸，日本地震工学会防災講習会，招待講演，東京，2013年1月24日
 
-#### Lectures in 2012
+#### Presentations in 2012
 0. 東日本大震災に学ぶこれからの津波防災，高橋智幸，毎日新聞社震災危機管理セミナー，招待講演，大阪市，2012年12月17日
 0. 津波観測のための海洋レーダの改良，伊藤浩之・日向博文・高橋智幸・藤井智史・花土弘・川相隆・小笠原勇，九州大学応用力学研究所共同研究集会「海洋レーダを用いた海況監視システムの開発と応用」，福岡市，2012年12月13日
 0. Velocity fields of propagating tsunami wave and subsequent resonant oscillation revealed by oceanographic radars in the Kii channel, Japan, Hirofumi Hinata, Ryotaro Fuji, Satoshi Fujii, Tomoya Kataoka, Tahahiro Kokai, Nobutoshi Kanatsu and Tomoyuki Takahashi, 九州大学応用力学研究所共同研究集会「海洋レーダを用いた海況監視システムの開発と応用」，福岡市，2012年12月12日
@@ -235,7 +235,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. 東日本大震災の被害と東海・東南海・南海地震津波，高橋智幸，平成23年度第1回東海・東南海・南海地震津波研究会，招待講演，大阪市，2012年1月13日
 0. 東日本大震災から考える津波防災対策，高橋智幸，大震災フォーラム，招待講演，徳島県美波町，2012年1月8日
 
-#### Lectures in 2011
+#### Presentations in 2011
 0. 津波による砂移動に関する数値シミュレーションの現状と課題，高橋智幸，日本堆積学会2011年長崎大会，招待講演，長崎市，2011年12月24日
 0. 東日本大震災を踏まえた東南海・南海地震における地震津波対策，高橋智幸，兵庫県建設技術研究発表会，招待講演，神戸市，2011年12月22日
 0. 2011 Japan tsunami current and flow velocity measurements from survivor videos using LiDAR, AGU Fall Meeting 2011, San Francisco, USA, December 5, 2011
@@ -271,7 +271,7 @@ Various Sand Grains Using Hydraulic Experiment Data, Ako Yamamoto, Tomoyuki Taka
 0. 津波のメカニズムと特性，東日本大震災に関する緊急シンポジウム，招待講演，高槻市，2011年3月30日
 0. 津波災害予測研究の最前線，高橋智幸，応用地質学会関西支部平成22年度技術講習会「南海地震に伴う地震・津波災害予測研究の最前線と防災対策」，招待講演，大阪市，2011年1月27日
 
-#### Lectures in 2010
+#### Presentations in 2010
 0. Comparison of Tsunami height Distributions of the 1960 and the 2010 Chilean Earthquakes on the Coasts of the Japanese Islands, AGU Fall Meeting 2010, San Francisco, USA, December 14, 2010
 0. 実際の津波災害から今後の津波防災を考える，高橋智幸，第14回近畿中部防衛局防衛問題セミナー，招待講演，四日市市，2010年12月18日
 0. 津波，高橋智幸，大規模災害対策研究機構，第5回大規模災害セミナー，招待講演，高槻市，2010年12月2日
