@@ -37,6 +37,14 @@ title: Research
 ### Presentations - 学会発表・講演等
 [2021](#lectures-in-2021) &nbsp; [2020](#lectures-in-2020) &nbsp; [2019](#lectures-in-2019) &nbsp; [2018](#lectures-in-2018) &nbsp; [2017](#lectures-in-2017) &nbsp; [2016](#lectures-in-2016) &nbsp; [2015](#lectures-in-2015) &nbsp; [2014](#lectures-in-2014) &nbsp; [2013](#lectures-in-2013) &nbsp; [2012](#lectures-in-2012) &nbsp; [2011](#lectures-in-2011) &nbsp; [2010](#lectures-in-2010)
 
+#### Presentations in 2022
+0. 大学から見たSDGs　－関西大学の取り組みを例として－，高橋智幸，日本化粧品技術者会 第36回勉強会，オンライン，2022年2月16日
+0. SDGs達成に向けた大学の役割　－教育、研究、社会貢献におけるSDGsの取り組みと活用－，高橋智幸，日経SDGsフェス大阪関西，オンライン，2022年2月17日
+0. 遡上津波の圧力勾配及び浮遊砂流の影響を考慮した津波土砂移動解析，山下啓，菅原大助，高橋智幸，第29回海洋工学シンポジウム，オンライン，2022年3月7日
+0. 災害を知り、想像し、そして備える，高橋智幸，旬刊経理情報，通巻№1647，談・論，中央経済，2022年6月20日
+0. Artificial Bailout of Polyps and their Immobilisation on Titanium Substrates, Nanako Kosaka, Tomoyuki Takahashi, Masato Ueda, the ACRS 2022 conference, Brisbane, Australia, November 26, 2022
+0. Highly Efficient Coral Propagation using Regenerative Medicine Techniques, Masato Ueda, Nanako Kosaka, Tomoyuki Takahashi, the ACRS 2022 conference, Brisbane, Australia,  November 26, 2022
+
 #### Presentations in 2021
 0. 関西大学のSDGs－再生可能エネルギーを利用したサンゴ礁再生の試み－，高橋智幸，日経SDGsフェス大阪梅田，オンライン，2021年2月15日
 0. 関西大学におけるSDGsの取り組み，高橋智幸，山田高等学校，吹田市，2021年1月20日
