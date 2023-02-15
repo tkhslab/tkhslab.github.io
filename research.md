@@ -5,7 +5,7 @@ title: Research
 <i class="fas fa-caret-right"></i> [Reseach stories - 研究紹介](#reseach-stories---研究紹介)<br>
 <i class="fas fa-caret-right"></i> [Reseach topics - 研究テーマ](#reseach-topics---研究テーマ)<br>
 <i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) - [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>
-<i class="fas fa-caret-right"></i> [Presentations - 学会発表・講演等](#lectures---学会発表講演等)<br>
+<i class="fas fa-caret-right"></i> [Presentations - 学会発表・講演等](#presentations---学会発表講演等)<br>
 <i class="fas fa-caret-right"></i> [Tsunami Source Estimation Database Based on Tsunami Deposits](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index_en.html) - [津波堆積物に基づく津波波源推定データベース](http://www.hdl.ss.muse.kansai-u.ac.jp/tsd/index.html)<br>
 <i class="fas fa-caret-right"></i> [津波解析ハッカソン](https://tsnmhack.github.io/)<br>
 <i class="fas fa-caret-right"></i> [Tsunami Mitigation Research Portal Site](https://tsunami-portal.bosai.go.jp/en/index) - [津波防災研究ポータルサイト](https://tsunami-portal.bosai.go.jp/)<br>
@@ -35,7 +35,7 @@ title: Research
 ---
 
 ### Presentations - 学会発表・講演等
-[2022](#lectures-in-2022) &nbsp; [2021](#lectures-in-2021) &nbsp; [2020](#lectures-in-2020) &nbsp; [2019](#lectures-in-2019) &nbsp; [2018](#lectures-in-2018) &nbsp; [2017](#lectures-in-2017) &nbsp; [2016](#lectures-in-2016) &nbsp; [2015](#lectures-in-2015) &nbsp; [2014](#lectures-in-2014) &nbsp; [2013](#lectures-in-2013) &nbsp; [2012](#lectures-in-2012) &nbsp; [2011](#lectures-in-2011) &nbsp; [2010](#lectures-in-2010)
+[2022](#presentations-in-2022) &nbsp; [2021](#presentations-in-2021) &nbsp; [2020](#presentations-in-2020) &nbsp; [2019](#presentations-in-2019) &nbsp; [2018](#presentations-in-2018) &nbsp; [2017](#presentations-in-2017) &nbsp; [2016](#presentations-in-2016) &nbsp; [2015](#presentations-in-2015) &nbsp; [2014](#presentations-in-2014) &nbsp; [2013](#presentations-in-2013) &nbsp; [2012](#presentations-in-2012) &nbsp; [2011](#presentations-in-2011) &nbsp; [2010](#presentations-in-2010)
 
 #### Presentations in 2022
 0. 大学から見たSDGs　－関西大学の取り組みを例として－，高橋智幸，日本化粧品技術者会 第36回勉強会，オンライン，2022年2月16日
