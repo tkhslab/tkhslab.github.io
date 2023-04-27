@@ -1,7 +1,8 @@
 ---
 title: Access
 ---
-## Access
+
+<div class="mt-2"></div>
 <i class="fas fa-caret-square-right"></i> **Takahashi Lab**<br>
 M1017 on the tenth floor of the West Building in Takatsuki Muse Campus
 ([Route Map](http://www.kansai-u.ac.jp/English/about_ku/location_muse.html) and [Campus Map](http://www.kansai-u.ac.jp/English/about_ku/muse_map.html#map))

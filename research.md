@@ -1,7 +1,8 @@
 ---
 title: Research
 ---
-## Research
+
+<div class="mt-2"></div>
 <i class="fas fa-caret-right"></i> [Reseach stories - 研究紹介](#reseach-stories---研究紹介)<br>
 <i class="fas fa-caret-right"></i> [Reseach topics - 研究テーマ](#reseach-topics---研究テーマ)<br>
 <i class="fas fa-caret-right"></i> [Publications](http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html#three) - [学術論文](http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html#three)<br>

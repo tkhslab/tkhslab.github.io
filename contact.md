@@ -1,7 +1,8 @@
 ---
 title: Contact
 ---
-## Contact
+
+<div class="mt-2"></div>
 <i class="fas fa-caret-square-right"></i> **Takahashi Lab, Faculty of Societal Safety Sciences, Kansai University**
 
 7-1 Hakubaicho, Takatsuki, Osaka 569-1098, Japan<br>

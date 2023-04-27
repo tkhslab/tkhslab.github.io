@@ -1,7 +1,8 @@
 ---
 title: People
 ---
-## People
+
+<div class="mt-2"></div>
 <div class="row">
 <div class="col-md">
 <h5>Professor</h5>

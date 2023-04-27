@@ -1,7 +1,8 @@
 ---
 title: For students
 ---
-## For students
+
+<div class="mt-2"></div>
 <!--
 <i class="fas fa-caret-right"></i> [2022年度の専門演習の履修予定者へ](#2022年度の専門演習の履修予定者へ)<br>
 -->
