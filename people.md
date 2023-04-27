@@ -10,16 +10,10 @@ title: People
 
 <h5>Second-year Master's student</h5>
 <p>&nbsp; Shuhei Yoshida - 吉田 修平</p>
-
-<h5>Fourth-year Bachelor's student</h5>
-<p>&nbsp; Tatsuki Ishida - 石田 達己<br>
-&nbsp; Takahiro Kanai - 金井 敬寛<br>
-&nbsp; Yusuke Takahashi - 高橋 佑介<br>
-&nbsp; Yohei Yamamoto - 山本 遥平</p>
 </div>
 
 <div class="col-md">
-<h5>Third-year Bachelor's student</h5>
+<h5>Fourth-year Bachelor's student</h5>
 <p>&nbsp; Ryo Udaka - 宇高 凌生<br>
 &nbsp; Kairi Utsunomiya - 宇都宮 海里<br>
 &nbsp; Hiroto Ohtani - 大谷 泰斗<br>
@@ -79,6 +73,12 @@ title: People
 <div class="col-md">
 
 <h5>Bachelor's degree program</h5>
+<p>&nbsp; Belonged from <strong>2021</strong><br>
+&nbsp; &nbsp; Tatsuki Ishida - 石田 達己<br>
+&nbsp; &nbsp; Takahiro Kanai - 金井 敬寛<br>
+&nbsp; &nbsp; Yusuke Takahashi - 高橋 佑介<br>
+&nbsp; &nbsp; Yohei Yamamoto - 山本 遥平</p>
+
 <p>&nbsp; Belonged from <strong>2018</strong><br>
 &nbsp; &nbsp; Yuto Kawamura - 川村 結斗<br>
 &nbsp; &nbsp; Ryo Kawase - 河瀬 諒<br>
