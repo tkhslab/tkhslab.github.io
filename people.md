@@ -7,9 +7,6 @@ title: People
 <div class="col-md">
 <h5>Professor</h5>
 <p>&nbsp; <a href="http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html">Tomoyuki Takahashi</a> - <a href="http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html">高橋 智幸</a></p>
-
-<h5>Second-year Master's student</h5>
-<p>&nbsp; Shuhei Yoshida - 吉田 修平</p>
 </div>
 
 <div class="col-md">
@@ -47,6 +44,9 @@ title: People
 &nbsp; &nbsp; Yu Morishita - 森下 祐</p>
 
 <h5>Master's degree program</h5>
+<p>&nbsp; Belonged from <strong>2020</strong><br>
+&nbsp; &nbsp; Shuhei Yoshida - 吉田 修平</p>
+
 <p>&nbsp; Belonged from <strong>2016</strong><br>
 &nbsp; &nbsp; Takehiro Fujihara - 藤原 岳大<br>
 &nbsp; &nbsp; Naoya Kimura - 木村 直哉<br>
