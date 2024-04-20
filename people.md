@@ -8,19 +8,6 @@ title: People
 <h5>Professor</h5>
 <p>&nbsp; <a href="http://gakujo.kansai-u.ac.jp/profile/en/c53fced62cLbcE6128e0937de2+.html">Tomoyuki Takahashi</a> - <a href="http://gakujo.kansai-u.ac.jp/profile/ja/c53fced62cLbcE6128e0937de2+.html">高橋 智幸</a></p>
 </div>
-
-<div class="col-md">
-<h5>Fourth-year Bachelor's student</h5>
-<p>&nbsp; Ryo Udaka - 宇高 凌生<br>
-&nbsp; Kairi Utsunomiya - 宇都宮 海里<br>
-&nbsp; Hiroto Ohtani - 大谷 泰斗<br>
-&nbsp; Kojiro Kaneko - 金子 ⻁次郎<br>
-&nbsp; Genya Shibayama - 柴山 弦也<br>
-&nbsp; Shogo Sumi - 角 奨悟<br>
-&nbsp; Yuichi Tsutsumi - 堤 悠一<br>
-&nbsp; Shunya Horimoto - 堀本 隼矢<br>
-&nbsp; Nanami Yukioka - 行岡 七海</p>
-</div>
 </div>
 
 ---
@@ -73,6 +60,23 @@ title: People
 <div class="col-md">
 
 <h5>Bachelor's degree program</h5>
+<p>&nbsp; Belonged from <strong>2022</strong><br>
+&nbsp; &nbsp; Ryo Udaka - 宇高 凌生<br>
+&nbsp; &nbsp; Kairi Utsunomiya - 宇都宮 海里<br>
+&nbsp; &nbsp; Hiroto Ohtani - 大谷 泰斗<br>
+&nbsp; &nbsp; Kojiro Kaneko - 金子 ⻁次郎<br>
+&nbsp; &nbsp; Genya Shibayama - 柴山 弦也<br>
+&nbsp; &nbsp; Shogo Sumi - 角 奨悟<br>
+&nbsp; &nbsp; Yuichi Tsutsumi - 堤 悠一<br>
+&nbsp; &nbsp; Shunya Horimoto - 堀本 隼矢<br>
+&nbsp; &nbsp; Nanami Yukioka - 行岡 七海</p>
+
+<p>&nbsp; Belonged from <strong>2021</strong><br>
+&nbsp; &nbsp; Tatsuki Ishida - 石田 達己<br>
+&nbsp; &nbsp; Takahiro Kanai - 金井 敬寛<br>
+&nbsp; &nbsp; Yusuke Takahashi - 高橋 佑介<br>
+&nbsp; &nbsp; Yohei Yamamoto - 山本 遥平</p>
+
 <p>&nbsp; Belonged from <strong>2021</strong><br>
 &nbsp; &nbsp; Tatsuki Ishida - 石田 達己<br>
 &nbsp; &nbsp; Takahiro Kanai - 金井 敬寛<br>
